@@ -16,12 +16,6 @@ Pygame
 NumPy
 PyTorch
 
-
-
-Kevin Rollins Rollins
-Please rewrite the readme further describing each file
-Sure, here's a revised version of the readme:
-
 AI Snake Game Project
 
 This is a simple Snake game developed using Pygame library in Python. The game features an AI agent that is trained to play the game using Q-learning algorithm.
